@@ -1,4 +1,4 @@
-baseURL = "https://smitz94.github.io"
+baseURL = "https://smitz94.github.io/"
 
 enableEmoji = true
 # Change the default theme to be use when building the site with Hugo
